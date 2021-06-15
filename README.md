@@ -1,12 +1,17 @@
 # Survival-Analysis-for-Attrition
 Using Survival Analysis (Lifelines) to build a Customer Attrition Model
 
+![GoT](https://media.giphy.com/media/l0K3Z4QU2TLMsw4sE/giphy.gif)
+
+-----------
+
 <b> Objective </b>
   - Customer Attrition or Churn refers to a decision made by the customer about ending the business relationship.
   - Customer loyalty and customer churn always add up to 100%. If a firm has a 60% of loyalty rate, then their loss or churn rate of customers is 40%.
   - Churn is undesirable and it is the firm's responsibility to understand why customers are churning and prevent that
+-----------
 
-Approach
+<b> Approach </b>
   - Usually when it comes to Predicting customer churn, we look at classification techniques such as Logistic regression but the problem with that approach is that it doesn't take time into consideration
   - So we will be using a tool from an unlikely place - Survival analysis. It was first developed by actuaries & medical professionals to predict survival rates
   - Here we will be defining -
@@ -21,12 +26,14 @@ Approach
 We have all come across "Teleco Customer Churn" dataset which we usually use to Predict customer churn by binary classification method.
 Now, we will use the same dataset and apply our newly learnt Survival analysis skills.
 
+-----------
+
 ![Kaplan-Meier Survival Curve](https://github.com/gofornaman/Survival-Analysis-for-Attrition/blob/main/img/S1.PNG)
 
-![Kaplan-Meier Survival Curve](https://github.com/gofornaman/Survival-Analysis-for-Attrition/blob/main/img/S2.PNG)
+![Coeff](https://github.com/gofornaman/Survival-Analysis-for-Attrition/blob/main/img/S2.PNG)
 
-![Kaplan-Meier Survival Curve](https://github.com/gofornaman/Survival-Analysis-for-Attrition/blob/main/img/S3.PNG)
+![Survival Regression](https://github.com/gofornaman/Survival-Analysis-for-Attrition/blob/main/img/S3.PNG)
 
-![Kaplan-Meier Survival Curve](https://github.com/gofornaman/Survival-Analysis-for-Attrition/blob/main/img/S4.PNG)
+![Customer Churn by Payment method](https://github.com/gofornaman/Survival-Analysis-for-Attrition/blob/main/img/S4.PNG)
 
 ------------------------------
