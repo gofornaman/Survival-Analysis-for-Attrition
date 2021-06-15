@@ -1,7 +1,7 @@
 # Survival-Analysis-for-Attrition
 Using Survival Analysis (Lifelines) to build a Customer Attrition Model
 
-Link to nbviewer - https://nbviewer.jupyter.org/github/gofornaman/Survival-Analysis-for-Attrition/blob/main/notebook/Attrition-Model.ipynb
+Link to nbviewer - https://tinyurl.com/nbviewer-link
 
 ![GoT](https://media.giphy.com/media/l0K3Z4QU2TLMsw4sE/giphy.gif)
 
